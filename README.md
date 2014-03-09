@@ -39,3 +39,4 @@ I used Arduino Mini only because I had one. Arduino Uno could be used also. FTDI
 
 Only one ultrasonic sensor is not enough. The caster wheel is not good, as moving backward the robot has a random trajectory due to it.
 
+![Raccoon robot](assets/DSC_0437.JPG?raw=true =350x) ![Raccoon robot](assets/DSC_0444.JPG?raw=true =350x)
