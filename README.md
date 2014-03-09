@@ -1,11 +1,11 @@
 Raccoon robot
 =====================
-###### An ultrasonic arduino robot for following a wall and exiting a labyrinth
+#### An ultrasonic arduino robot for following a wall and exiting a labyrinth
 
 Arduino robot for passing through labyrinths. It uses Ultrasonic sensor and follows one of the walls. The current robot has a static ultrasonic sensor attached 45 degrees on the front left side.
 I built that robot for a competition at [iengineer.bg](http://iengineer.bg/). The competition is 3D labyrinth. More info about the rules and the organizers at [roboleague.bg](http://roboleague.bg/index.php/main/rules).
 
-![](./assets/DSC_0439.jpg =920x)
+![Raccoon robot](assets/DSC_0439.jpg)
 
 ### Parts used:
 
